@@ -46,7 +46,7 @@ public class constructor_overloading {
         //third t=new third();
         third t1=new third(5,6);
         //display();
-        t1.dis();
+//        t1.dis();
 //        first f1=new first();
 //        f1.dis();//first ka hi acces hoga aise
 
